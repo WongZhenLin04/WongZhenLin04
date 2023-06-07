@@ -1,4 +1,11 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media4.giphy.com/media/hqgD6bocRHhEjamBPA/giphy.gif?cid=ecf05e472hf1ve8db0mjx1iae9s2txre5tlsdyv3j91jwy8p&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
+  <br><br>
+  <b>Hey there!</b> 😄 
+  <br><br>
+  My name is Wong Zhen Lin, or you can call me Colin, currently I am an undergraduate student (2nd year) studying <br> in the University of Nottingham Malaysia Campus (UNMC) undergoing the course Computer Science with <br> Artificial Intelligence.
+</div>
+
 
 <!--
 **WongZhenLin04/WongZhenLin04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
