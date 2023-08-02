@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://media4.giphy.com/media/hqgD6bocRHhEjamBPA/giphy.gif?cid=ecf05e472hf1ve8db0mjx1iae9s2txre5tlsdyv3j91jwy8p&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
+
   <br><br>
   <b>Hey there!</b> 😄 
   <br><br>
