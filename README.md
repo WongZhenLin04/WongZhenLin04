@@ -9,7 +9,6 @@
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=WongZhenLin04&show_icons=true&theme=dark"/> <br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WongZhenLin04&layout=compact&theme=dark"/>
 </div>
 
