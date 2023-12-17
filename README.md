@@ -2,7 +2,7 @@
   <br><br>
   <b>Hey there!</b> 😄 
   <br><br>
-  My name is Wong Zhen Lin, or you can call me Colin, currently I am an undergraduate student (2nd year) studying <br> in the University of Nottingham Malaysia Campus (UNMC) undergoing the course Computer Science with <br> Artificial Intelligence.<br><br>
+  My name is Wong Zhen Lin, or you can call me Colin, currently I am an undergraduate student (final year) studying <br> in the University of Nottingham Malaysia Campus (UNMC) undergoing the course Computer Science with <br> Artificial Intelligence.<br><br>
  
 </div>
 
